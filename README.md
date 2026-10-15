@@ -1,14 +1,18 @@
 **🍽️ Swiggy Sales Analysis Dashboard – Excel Project**
 
+
 **📌 Project Overview**
 
 This project focuses on analyzing Swiggy restaurant and sales data using Microsoft Excel. The objective is to organize the data, explore sales performance, identify popular dishes and restaurants, and present meaningful insights through PivotTables and an interactive dashboard.
+
 
 Dataset used:
 
 <a href="https://github.com/Aniketyadav004/Excel-2/blob/main/Swiggy%20project%20excel.xlsx"> Swiggy dataset view</a> 
 
 This project focuses on analyzing Swiggy restaurant and sales data using Microsoft Excel. The objective is to organize the data, explore sales performance, identify popular dishes and restaurants, and present meaningful insights through PivotTables and an interactive dashboard.
+
+
 
 **🎯 Project Objectives**
 
@@ -21,6 +25,8 @@ Explore key business metrics using PivotTables.
 Present data-driven insights through an Excel dashboard.
 
 Improve data analysis and visualization skills using Excel.
+
+
 
 
 **📊 Interactive Dashboard**
@@ -51,6 +57,10 @@ Category-Wise Analysis: Examines the contribution of food categories, such as de
 Product-Level Insights: Highlights product-level information to support sales analysis.
 
 
+<img width="886" height="502" alt="swiggy dashboard" src="https://github.com/user-attachments/assets/2aa537f4-1545-42c4-93c0-27be0691ee87" />
+
+
+
 
 
 **📂 Project Structure**
@@ -70,7 +80,9 @@ Sales: Sales-related summaries and metrics.
 Dashboard: Visual representation of key business information.
 
 
-****📊 Key Analysis Areas**
+
+
+**📊 Key Analysis Areas**
 Sales and revenue performance
 
 Restaurant performance comparison
@@ -95,6 +107,8 @@ Charts and Data Visualization
 Dashboard Reporting
 
 
+
+
 **💡 Skills Demonstrated**
 
 Data organization and analysis
@@ -106,6 +120,7 @@ Excel-based reporting
 Data visualization
 
 Business insight generation
+
 
 
 **👨‍💻 Author**
